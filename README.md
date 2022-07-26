@@ -132,6 +132,10 @@ xml
 
 ![xml](https://i.imgur.com/4cCrGr4.png)
 
+yaml
+
+![YAML](https://user-images.githubusercontent.com/57457139/181044546-cdf691ba-f1cb-4d81-8ece-dec036279fe5.png)
+
 And you get the idea! Now you're a **Discord text markdown expert**. Get out there and highlight your statements!
 
 ## Acknowledgements
