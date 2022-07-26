@@ -112,6 +112,10 @@ prolog
 
 ![prolog](https://i.imgur.com/VvfgXzk.png)
 
+powershell
+
+![powershell](https://user-images.githubusercontent.com/57457139/181044281-4a8607e0-9ef9-4626-a77b-949c8e70e2d7.png)
+
 py
 
 ![py](https://i.imgur.com/sjxY2lB.png)
