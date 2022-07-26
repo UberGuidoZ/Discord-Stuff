@@ -142,7 +142,9 @@ And you get the idea! Now you're a **Discord text markdown expert**. Get out the
 
 [Hammer and Chisel](https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)  
 [Discord Highlight.js](https://discord.gg/SkZTwPk)
+[matthewzring]([Original taken from here!](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51))
 
-A special thanks to Frosty#9449 for their help in making this guide.
+A special thanks to Frosty#9449 for their help in making the original guide.
 
-If you have any questions or want to get in contact with me, you can add **Matthew#2334** on Discord or join [my support server](https://discord.gg/vW49jAR).
+If you have any questions or want to get in contact with the original author, they are **Matthew#2334** on Discord or join [their support server](https://discord.gg/vW49jAR).<br>
+If you have any questions or want to get in contact with me, I'm **UberGuidoZ#2945** on Discord (many, many servers...)
