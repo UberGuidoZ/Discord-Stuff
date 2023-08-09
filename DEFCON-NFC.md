@@ -2,7 +2,7 @@
 
 Most people will find this page after meeting me at DEF CON 31 and getting an NFC coin. Thanks for saying hi! =) Hopefully you were one of the winners of 0.005 BTC... but if not, at least you got a cool coin!
 
-Enough with the chitchat, you're here for NFC info. First off, the NTAG215 coin you have is reuseable. There is a password to prevent someone from just wiping it without reading it, but I intentionally did not lock it so you can do what you would like. You'll need to use an [NFC writer](https://www.amazon.com/nfc-writer/s?k=nfc+writer) or software to remove the password. I ***adore*** NFC Tools on [iOS](https://apps.apple.com/us/app/nfc-tools/id1252962749) or [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc).
+Enough with the chitchat, you're here for NFC info. First off, the NTAG215 coin you have is reuseable. There is a password to prevent someone from just wiping it without reading it, but I intentionally did not lock it so you can do what you would like. You'll need to use a compatible [NFC writer](https://www.amazon.com/nfc-writer/s?k=nfc+writer) or software to remove the password and write your own goodies. I ***adore*** NFC Tools on [iOS](https://apps.apple.com/us/app/nfc-tools/id1252962749) or [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc).
 
 Caution: The Flipper can read it and will claim to be able to remove the password. It cannot! The password is longer than it supports. It won't hurt it to read it and you can capture/emulate it. So grab a copy before formatting it!
 
