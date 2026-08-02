@@ -1,7 +1,7 @@
 ![UberGuidoZ](https://cdn.discordapp.com/emojis/1000632669622767686.gif) <br>
 Just here for the NFC Pass? Sure! `UberGuidoZ DEFCON34 BLACK` (Use free NFC Tools mobile app to remove)<br>
 
-If you recevied a Black NFC card... know you're special. An elite group specifically picked for such an honor! It was my pleasure to see you.
+If you received a Black NFC card... know you're special. An elite group specifically picked for such a rare honor! Only 20 of these were made, though I'll hand out hundreds of other NFC coins, cards, and general swag. It was sincerely MY pleasure to see you. Go ahead, post a picture, a tweet, whatever and bask in your glory for a little bit. You earned it.
 
 But enough with the chitchat, you're here for NFC info. First off, the NTAG215 BLACK CARD you have is reuseable. There is a password to prevent just wiping it without reading it, but I intentionally did not lock it so you can do what you would like. You'll need to use a compatible [NFC writer](https://www.amazon.com/nfc-writer/s?k=nfc+writer) or software to remove the password and write your own goodies. I ***adore*** NFC Tools on [iOS](https://apps.apple.com/us/app/nfc-tools/id1252962749) or [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc) which is what I used to password the BLACK CARD you have.
 
